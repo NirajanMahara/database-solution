@@ -11,6 +11,15 @@ This is a secure, production-ready database solution built with Supabase, featur
 - Automated backups
 - Role-based access control
 
+## Deployed to https://teal-gecko-e128d7.netlify.app
+
+## Routing
+   ```bash
+   Landing page route (/)
+   Authentication route (/auth)
+   Protected dashboard route (/dashboard)
+   ```
+
 ## Security Features
 
 1. **Row Level Security (RLS)**
